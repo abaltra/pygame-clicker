@@ -3,7 +3,7 @@
 Simple app using Pygame to draw some circles on screen and websockets to draw them on other screens
 
 ## How to run
-This requires `tornado` and `pygame` to be installed. I recommend using [https://virtualenv.pypa.io/en/latest/](virtualenv) to avoid polluting your global env.
+This requires [tornado](https://www.tornadoweb.org/en/stable/) and [pygame](https://www.pygame.org/news) to be installed. I recommend using [virtualenv](https://virtualenv.pypa.io/en/latest/) to avoid polluting your global env.
 
 ```shell
 python3 -m virtualenv venv
